@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.student {
+  width: 60%;
+  margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin: 15px 0px;
+    padding:10px 0px;
+}
+
+
+.table{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.xoa{
+    margin-left: 10px;
+}
